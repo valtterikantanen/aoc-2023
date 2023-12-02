@@ -1,0 +1,10 @@
+{
+  "name": "aoc-2023",
+  "scripts": {
+    "tsx": "tsx"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.2",
+    "tsx": "^4.6.2"
+  }
+}
